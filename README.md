@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Sergio Vargas
 
-💻 **Software Engineer | Backend & Cloud Specialist | 7+ years of experience**
+💻 **Software Engineer | 7+ years of experience**
 
 I’m a bilingual Software Engineer (English/Spanish) specialized in **Python (Django, FastAPI, Flask)** and **AWS serverless architectures**, with strong expertise building scalable and secure solutions for **fintech** and **educational platforms**.  
 I also work with modern **AI/LLM tooling such as LangChain and LangSmith**, delivering intelligent and production-ready applications.  
